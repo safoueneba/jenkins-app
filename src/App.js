@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and jenkins
+          Learn React and jenkins and nginx
         </a>
       </header>
     </div>
