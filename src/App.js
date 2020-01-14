@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React webhook and nginx
+          Learn React webhook and nginx 2
         </a>
       </header>
     </div>
